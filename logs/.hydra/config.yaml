@@ -1,0 +1,3 @@
+path:
+  root: /home/orka/chengwei/MTFAA
+  log_path: ${path.root}/logs

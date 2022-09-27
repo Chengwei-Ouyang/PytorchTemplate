@@ -1,0 +1,7 @@
+path:
+  root: /home/orka/chengwei/MTFAA
+  log_path: ${path.root}/logs/tb_logs
+
+hydra:
+  run:
+    dir: ${path.log_path}
